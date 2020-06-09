@@ -5,7 +5,7 @@ The main goal of this tutorial is to explore the softwarization in the 5G system
 
 ## Material
 * Text
-* Slides
+* [Slides](https://drive.google.com/drive/folders/1bhcBX-lZ3fhlUJP2OkF_072KocrmVwnA?usp=sharing "Slides available in the Google Drive")
 * Hands-on
   * Demo 1 - In this demonstration, we create an operational eNodeB, i.e., the main element of a RAN, based on LTE technology and using open-source software. In addition to the RAN, the software is also capable of emulating functional UEs.
     * Experiment 1 - UE and RAN emulated by software, without the core.
