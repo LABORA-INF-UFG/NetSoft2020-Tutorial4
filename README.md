@@ -8,9 +8,9 @@ This tutorial aims to explore the softwarization in the 5G system composed of th
 * [Slides](https://drive.google.com/drive/folders/1bhcBX-lZ3fhlUJP2OkF_072KocrmVwnA?usp=sharing "Slides available in the Google Drive")
 * Hands-on
   * Demo 1 - In this demonstration, we create an operational eNodeB, i.e., the main element of a RAN, based on LTE technology and open-source software. In addition to RAN, the software is also capable of emulating functional UEs.
-    * Experiment 1 ([repository](https://github.com/LABORA-INF-UFG/NetSoft2020-Tutorial4-Demo1-Exp1 "Demo 1 - Experiment 1"), video) - UE and RAN emulated by software without the core.
-    * Experiment 2 ([repository](https://github.com/LABORA-INF-UFG/NetSoft2020-Tutorial4-Demo1-Exp2 "Demo 1 - Experiment 2"), [video](https://youtu.be/X9qrC_dEL6g) ) - UE, RAN, and EPC core, all implemented in software.
-    * Experiment 3 ([repository](https://github.com/LABORA-INF-UFG/NetSoft2020-Tutorial4-Demo1-Exp3 "Demo 1 - Experiment 3"), video) - UE in hardware (conventional cell phone), RAN in hardware (SDR) and software, and the EPC core implemented in software.
+    * Experiment 1 ([repository](https://github.com/LABORA-INF-UFG/NetSoft2020-Tutorial4-Demo1-Exp1 "Demo 1 - Experiment 1"), [video](https://youtu.be/puIOD6nQ3j0)) - UE and RAN emulated by software without the core.
+    * Experiment 2 ([repository](https://github.com/LABORA-INF-UFG/NetSoft2020-Tutorial4-Demo1-Exp2 "Demo 1 - Experiment 2"), [video](https://youtu.be/X9qrC_dEL6g)) - UE, RAN, and EPC core, all implemented in software.
+    * Experiment 3 ([repository](https://github.com/LABORA-INF-UFG/NetSoft2020-Tutorial4-Demo1-Exp3 "Demo 1 - Experiment 3"), [video](https://youtu.be/RxZBPlvrYng)) - UE in hardware (conventional cell phone), RAN in hardware (SDR) and software, and the EPC core implemented in software.
   * Demo 2 - In this demonstration, we use the 5G core based on the open-source SBA model. In addition to the core, we also present how to emulate RAN and multiple UEs.
     * Experiment 1 ([repository](https://github.com/LABORA-INF-UFG/NetSoft2020-Tutorial4-Demo2-Exp1 "Demo 2 - Experiment 1"), [video](https://youtu.be/ZZZ8UjgyWn4) ) - UEs, RAN, and core, all implemented in software.
     * Experiment 2 ([repository](https://github.com/LABORA-INF-UFG/NetSoft2020-Tutorial4-Demo2-Exp2 "Demo 2 - Experiment 2"), video) - UE in hardware (conventional mobile phone), eNodeB in hardware (SDR) and software, and the 5G core implemented in software.
