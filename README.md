@@ -15,7 +15,7 @@ This tutorial aims to explore the softwarization in the 5G system composed of th
     * Experiment 1 ([repository](https://github.com/LABORA-INF-UFG/NetSoft2020-Tutorial4-Demo2-Exp1 "Demo 2 - Experiment 1"), [video](https://youtu.be/ZZZ8UjgyWn4) ) - UEs, RAN, and core, all implemented in software.
     * Experiment 2 ([repository](https://github.com/LABORA-INF-UFG/NetSoft2020-Tutorial4-Demo2-Exp2 "Demo 2 - Experiment 2"), [video](https://youtu.be/ph1dZNrduOU)) - UE in hardware (conventional mobile phone), eNodeB in hardware (SDR) and software, and the 5G core implemented in software.
   * Demo 3 - In this demonstration, we combine a RAN based on LTE technology with a LoRa wireless network implemented in hardware. For RAN LTE, we use open-source software and an SDR. We also use an open-source implementation of the SBA-based 5G core software.
-    * Experiment 1 ([repository](https://github.com/LABORA-INF-UFG/NetSoft2020-Tutorial4-Demo3-Exp1 "Demo 3 - Experiment 1"), video) - IoT LoRa sensors in hardware, IoT LoRa gateway in hardware and software, RAN in hardware (SDR) and software, and the 5G core implemented in software.
+    * Experiment 1 ([repository](https://github.com/LABORA-INF-UFG/NetSoft2020-Tutorial4-Demo3-Exp1 "Demo 3 - Experiment 1"), [video](https://youtu.be/nJpO95LuxLU)) - IoT LoRa sensors in hardware, IoT LoRa gateway in hardware and software, RAN in hardware (SDR) and software, and the 5G core implemented in software.
  
 ## How to cite
 
